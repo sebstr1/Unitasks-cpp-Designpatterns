@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab6 till prototype\src\PrototypeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab6 till prototype\src\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab6 till prototype\src\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab6 till prototype\src\prices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab6 till prototype\src\DecoratorPrototype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab6 till prototype\src\DrinkPrototype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab6 till prototype\src\PrototypeManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{04939153-2FF6-307E-8572-EE69C37007AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{732633E9-7FE1-3867-8C90-892BFC91FEA2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

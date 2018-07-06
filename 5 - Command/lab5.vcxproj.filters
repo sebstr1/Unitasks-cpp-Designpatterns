@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\PlayHanoi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\CommandManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\HanoiEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\CommandManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\Command.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\CommandShow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\CommandMove.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\HanoiEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB5\aaaaaaaaaaaaaa\src\Replayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{37DAD275-EA5B-3C8F-924E-1DDBABAFA905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FC044A39-C918-3E08-8970-E06ADC8D06AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

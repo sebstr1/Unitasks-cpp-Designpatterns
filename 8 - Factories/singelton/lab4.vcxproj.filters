@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Action.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\GameFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Obstacle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\testLab4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Action.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\GameFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Obstacle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB8\lab4 till singleton\src\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{21C0F044-9850-3073-BEAD-B23FFEED481F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A4B78CB7-B530-3311-80EC-41F2DA5AEAEC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

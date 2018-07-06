@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ChatLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ChatServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ClientConnection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ClientListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\Message.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\Address.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ChatLogger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ChatObserver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ClientConnection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ClientListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\ClientProxy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\Connection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB7\src\ChatServer\Server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A220AC84-4B69-3DC7-A325-32D07BFE6834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8524B986-885E-3682-A0AC-F826F105F25E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\FuelCell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\GasTurbine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\PowerSourceAdapters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\V8Classic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\src\Vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\src\Submarine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\src\RaceCar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\src\SpaceShip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\FuelCell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\GasTurbine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\PowerSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\PowerSourceAdapters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sebas\dev\miun\DT063G Designmönster Cpp\DT063G_sest1601_LAB3\pwrSRC\V8Classic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FE39DC44-B40B-31E8-9B71-CE7C72612BCC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8B7CF249-F974-35AD-83FC-9FC74E72CCE5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

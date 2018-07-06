@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CMakePredefinedTargets", "CMakePredefinedTargets", "{A41DE258-93BE-3B00-92C4-0A6EFEF059D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab6", "lab6.vcxproj", "{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.Debug|Win32.Build.0 = Debug|Win32
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.Release|Win32.ActiveCfg = Release|Win32
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.Release|Win32.Build.0 = Release|Win32
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{2DC3E880-0FA9-3F2C-9ABE-517F565FAF50}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5036FA8-8CFE-35AB-BED9-46AF2BBA5A8D}
+	EndGlobalSection
+EndGlobal

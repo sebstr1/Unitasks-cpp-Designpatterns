@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CMakePredefinedTargets", "CMakePredefinedTargets", "{3C3BAB8C-F150-3AD2-B96C-69BBF661EF51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{13197283-D3A2-3B36-A392-783859033DBB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86} = {F4655789-BE9E-3E93-85AA-FE23EDB9FC86}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab4", "lab4.vcxproj", "{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13197283-D3A2-3B36-A392-783859033DBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13197283-D3A2-3B36-A392-783859033DBB}.Release|Win32.ActiveCfg = Release|Win32
+		{13197283-D3A2-3B36-A392-783859033DBB}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{13197283-D3A2-3B36-A392-783859033DBB}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.Debug|Win32.Build.0 = Debug|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.Release|Win32.ActiveCfg = Release|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.Release|Win32.Build.0 = Release|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{F4655789-BE9E-3E93-85AA-FE23EDB9FC86}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{13197283-D3A2-3B36-A392-783859033DBB} = {3C3BAB8C-F150-3AD2-B96C-69BBF661EF51}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA102022-F510-3632-B1B6-05E65503D905}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
