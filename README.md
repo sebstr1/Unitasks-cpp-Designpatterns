@@ -1,7 +1,7 @@
 ### University tasks for the Course VT18 DT063G Datateknik GR (B), Designmönster med C++
 Instructions for each part is in a pdf in corresponding folder.
 
-Each Lab is basicly - Follow the instructions in the pdf and apply the design pattern with C++ code.
+Each Lab is basically - Follow the instructions in the pdf and apply the design pattern with C++ code.
 
 #### Lab 1 UML
 #### Lab 2 Strategy
