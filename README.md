@@ -9,5 +9,5 @@ Each Lab is basically - Follow the instructions in the pdf and apply the design 
 #### Lab 4 Abstract Factory
 #### Lab 5 Command
 #### Lab 6 Decorator
-#### Lab 7 Observer
+#### Lab 7 Proxy
 #### Lab 8 Factories
